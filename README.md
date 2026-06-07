@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there I'm Kilian a self-thaught programmer oriented in back-end !
 
-<!--
-**Yusko0o/Yusko0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I like to build small projects or learn about computer sciences
 
-Here are some ideas to get you started:
+- I'm very intersted about what's behind the scenes and cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My main techs are c++, python, html, css, flask and raylib
+
+- I might not be the best programmer yet but I have the best ideas sometimes hehe
+
+## Fun fact about me :
+
+- I have 2 cats
+- Big coffe enjoyer
+- I'm a piano professional
+- hobbies : Sport, Tennis, learning stuff and coffe :)
