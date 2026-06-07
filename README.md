@@ -6,6 +6,8 @@ I'm very intersted about what's behind the scenes and cybersecurity
 
 My main techs are c++, python, html, css, flask and raylib
 
+I'm a big leetcode enjoyer but might not be the best at it
+
 I might not be the best programmer yet but I have the best ideas sometimes hehe
 
 ## Fun fact about me :
