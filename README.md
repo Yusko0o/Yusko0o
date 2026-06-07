@@ -1,4 +1,4 @@
-## Hi there I'm Kilian a self-thaught programmer oriented in back-end !
+## Hi there ! 🗼 I'm Kilian a self-thaught programmer oriented in back-end !
 
 - I like to build small projects or learn about computer sciences
 
