@@ -1,10 +1,10 @@
 ## Hi there ! 🗼 I'm Kilian a self-thaught programmer oriented in back-end !
 
-I like to build small projects or learn about computer sciences
+I like to build small projects or learn about computer sciences/engineering
 
 I'm very intersted about what's behind the scenes and cybersecurity
 
-My main techs are c++, python, html, css, flask and raylib
+My main techs are c++, python, html, css, js, flask, node.js
 
 I'm a big leetcode enjoyer but might not be the best at it
 
